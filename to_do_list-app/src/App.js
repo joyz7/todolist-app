@@ -1,7 +1,8 @@
 import React from "react";
+import Empty from "./Empty";
 
 function App() {
-  return;
+  return <Empty />;
 }
 
 export default App;
